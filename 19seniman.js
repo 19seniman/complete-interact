@@ -7,7 +7,7 @@ function _0x2835() {
     'then',
     '83475UebPmo',
     '620514DQSgkx',
-    'All tasks processed! ^_^\nSubscribe: https://t.me/Insider911trading_Bot',
+    'All tasks processed! ^_^\nSubscribe: https://t.me/blockchainproject_19',
     'Clicked task container',
     '17300072OJLxxB',
     '1782294mHbzbk',
@@ -18,7 +18,7 @@ function _0x2835() {
     'Clicked verify button',
     'div[data-badge-size="md"][data-button-badge-variant="tertiary"]',
     'button[data-verify-button-status="idle"][data-verify-button-disabled="false"]',
-    'Intract Auto Complete Tasks by 19Seniman \nSubscribe: https://t.me/Insider911trading_Bot',
+    'Auto Complete Quest on Interact by 19Seniman \nSubscribe: https://t.me/blockchainproject_19',
     'All tasks processed.',
     '3kKhEfp',
     'dispatchEvent',
@@ -49,7 +49,7 @@ async function processTasks() {
           (clickElement(t), console[e(445)](e(426))));
   }
   console[e(445)](e(430)),
-    console[e(445)]('Subscribe: https://t.me/Insider911trading_Bot');
+    console[e(445)]('Subscribe: https://t.me/blockchainproject_19');
 }
 function _0x59e3(e, t) {
   const n = _0x2835();
